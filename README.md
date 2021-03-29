@@ -20,6 +20,7 @@ pip install scipy
 pip install yfinance
 ```
 
+## References
 Check out these great resources that made this project possible below. 
 
 Wrapper for yFinance
