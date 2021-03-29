@@ -8,7 +8,7 @@ Your output will show both simulated and expected allocations for a Maximum Shar
 Simply choose your stock tickers and insert into the tickers list at the beginning of the code. Double check that you have properly installed all requirements.
 
 ## Efficient Frontier
-
+![image](efficient frontier.png)
 
 ## Requirements
 Run these codes in your terminal to ensure all requirements are satisfied.
