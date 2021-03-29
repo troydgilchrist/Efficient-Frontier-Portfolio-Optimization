@@ -11,7 +11,7 @@ Simply choose your stock tickers and insert into the tickers list at the beginni
 ![image](https://github.com/troydgilchrist/Efficient-Frontier-Portfolio-Optimization/blob/9e5666ef586a55e45e3e221422ad62fd8443cbaa/efficient%20frontier.png)
 
 ## Requirements
-Run these codes in your terminal to ensure all requirements are satisfied.
+Run this in your terminal to ensure all requirements are satisfied.
 ```
 pip install pandas
 pip install numpy
